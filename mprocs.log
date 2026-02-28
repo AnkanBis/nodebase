@@ -1,0 +1,38 @@
+ERROR [portable_pty::win::psuedocon] CreateProcessW `"\"C:\\Program Files\\nodejs\\npm\" run inngest:dev\0"` in cwd `Some("C:\\Applications\\Personal-projects\\nodebase\0")` failed: %1 is not a valid Win32 application. (os error 193)
+ERROR [portable_pty::win::psuedocon] CreateProcessW `"\"C:\\Program Files\\nodejs\\npm\" run dev\0"` in cwd `Some("C:\\Applications\\Personal-projects\\nodebase\0")` failed: %1 is not a valid Win32 application. (os error 193)
+ERROR [portable_pty::win::psuedocon] CreateProcessW `"\"C:\\Program Files\\nodejs\\npm\" run inngest:dev\0"` in cwd `Some("C:\\Applications\\Personal-projects\\nodebase\0")` failed: %1 is not a valid Win32 application. (os error 193)
+ERROR [portable_pty::win::psuedocon] CreateProcessW `"\"C:\\Program Files\\nodejs\\npm\" run dev\0"` in cwd `Some("C:\\Applications\\Personal-projects\\nodebase\0")` failed: %1 is not a valid Win32 application. (os error 193)
+ERROR [portable_pty::win::psuedocon] CreateProcessW `"\"C:\\Program Files\\nodejs\\npm\" run inngest:dev\0"` in cwd `Some("C:\\Applications\\Personal-projects\\nodebase\0")` failed: %1 is not a valid Win32 application. (os error 193)
+ERROR [portable_pty::win::psuedocon] CreateProcessW `"\"C:\\Program Files\\nodejs\\npm\" run inngest:dev\0"` in cwd `Some("C:\\Applications\\Personal-projects\\nodebase\0")` failed: %1 is not a valid Win32 application. (os error 193)
+ERROR [portable_pty::win::psuedocon] CreateProcessW `"\"C:\\Program Files\\nodejs\\npm\" run inngest:dev\0"` in cwd `Some("C:\\Applications\\Personal-projects\\nodebase\0")` failed: %1 is not a valid Win32 application. (os error 193)
+ERROR [portable_pty::win::psuedocon] CreateProcessW `"\"C:\\Program Files\\nodejs\\npm\" run dev\0"` in cwd `Some("C:\\Applications\\Personal-projects\\nodebase\0")` failed: %1 is not a valid Win32 application. (os error 193)
+ERROR [lib::error] Error: channel closed
+ERROR [portable_pty::win::psuedocon] CreateProcessW `"\"C:\\Program Files\\nodejs\\npm\" run dev\0"` in cwd `Some("C:\\Applications\\Personal-projects\\nodebase\0")` failed: %1 is not a valid Win32 application. (os error 193)
+ERROR [portable_pty::win::psuedocon] CreateProcessW `"\"C:\\Program Files\\nodejs\\npm\" run inngest:dev\0"` in cwd `Some("C:\\Applications\\Personal-projects\\nodebase\0")` failed: %1 is not a valid Win32 application. (os error 193)
+ERROR [portable_pty::win::psuedocon] CreateProcessW `"\"C:\\Program Files\\nodejs\\npm\" run inngest:dev\0"` in cwd `Some("C:\\Applications\\Personal-projects\\nodebase\0")` failed: %1 is not a valid Win32 application. (os error 193)
+ERROR [portable_pty::win::psuedocon] CreateProcessW `"\"C:\\Program Files\\nodejs\\npm\" run inngest:dev\0"` in cwd `Some("C:\\Applications\\Personal-projects\\nodebase\0")` failed: %1 is not a valid Win32 application. (os error 193)
+ERROR [portable_pty::win::psuedocon] CreateProcessW `"\"C:\\Program Files\\nodejs\\npm\" run dev\0"` in cwd `Some("C:\\Applications\\Personal-projects\\nodebase\0")` failed: %1 is not a valid Win32 application. (os error 193)
+ERROR [portable_pty::win::psuedocon] CreateProcessW `"\"C:\\Program Files\\nodejs\\npm\" run dev\0"` in cwd `Some("C:\\Applications\\Personal-projects\\nodebase\0")` failed: %1 is not a valid Win32 application. (os error 193)
+ERROR [lib::error] Error: channel closed
+ERROR [portable_pty::win::psuedocon] CreateProcessW `"\"C:\\Program Files\\nodejs\\npm\" run inngest:dev\0"` in cwd `Some("C:\\Applications\\Personal-projects\\nodebase\0")` failed: %1 is not a valid Win32 application. (os error 193)
+ERROR [portable_pty::win::psuedocon] CreateProcessW `"\"C:\\Program Files\\nodejs\\npm\" run dev\0"` in cwd `Some("C:\\Applications\\Personal-projects\\nodebase\0")` failed: %1 is not a valid Win32 application. (os error 193)
+ERROR [portable_pty::win::psuedocon] CreateProcessW `"\"C:\\Program Files\\nodejs\\npm\" run inngest:dev\0"` in cwd `Some("C:\\Applications\\Personal-projects\\nodebase\0")` failed: %1 is not a valid Win32 application. (os error 193)
+ERROR [portable_pty::win::psuedocon] CreateProcessW `"\"C:\\Program Files\\nodejs\\npm\" run inngest:dev\0"` in cwd `Some("C:\\Applications\\Personal-projects\\nodebase\0")` failed: %1 is not a valid Win32 application. (os error 193)
+ERROR [portable_pty::win::psuedocon] CreateProcessW `"\"C:\\Program Files\\nodejs\\npm\" run dev\0"` in cwd `Some("C:\\Applications\\Personal-projects\\nodebase\0")` failed: %1 is not a valid Win32 application. (os error 193)
+ERROR [portable_pty::win::psuedocon] CreateProcessW `"\"C:\\Program Files\\nodejs\\npm\" run dev\0"` in cwd `Some("C:\\Applications\\Personal-projects\\nodebase\0")` failed: %1 is not a valid Win32 application. (os error 193)
+ERROR [portable_pty::win::psuedocon] CreateProcessW `"\"C:\\Program Files\\nodejs\\npm\" run dev\0"` in cwd `Some("C:\\Applications\\Personal-projects\\nodebase\0")` failed: %1 is not a valid Win32 application. (os error 193)
+ERROR [lib::error] Error: channel closed
+ERROR [portable_pty::win::psuedocon] CreateProcessW `"\"C:\\Program Files\\nodejs\\npm\" run dev\0"` in cwd `Some("C:\\Applications\\Personal-projects\\nodebase\0")` failed: %1 is not a valid Win32 application. (os error 193)
+ERROR [portable_pty::win::psuedocon] CreateProcessW `"\"C:\\Program Files\\nodejs\\npm\" run inngest:dev\0"` in cwd `Some("C:\\Applications\\Personal-projects\\nodebase\0")` failed: %1 is not a valid Win32 application. (os error 193)
+ERROR [portable_pty::win::psuedocon] CreateProcessW `"\"C:\\Program Files\\nodejs\\npm\" run inngest:dev\0"` in cwd `Some("C:\\Applications\\Personal-projects\\nodebase\0")` failed: %1 is not a valid Win32 application. (os error 193)
+ERROR [portable_pty::win::psuedocon] CreateProcessW `"\"C:\\Program Files\\nodejs\\npm\" run dev\0"` in cwd `Some("C:\\Applications\\Personal-projects\\nodebase\0")` failed: %1 is not a valid Win32 application. (os error 193)
+ERROR [lib::app] TODO: Copy deps for duplicate proc.
+ERROR [portable_pty::win::psuedocon] CreateProcessW `"\"C:\\Program Files\\nodejs\\npm\" run inngest:dev\0"` in cwd `Some("C:\\Applications\\Personal-projects\\nodebase\0")` failed: %1 is not a valid Win32 application. (os error 193)
+ERROR [lib::app] TODO: Copy deps for duplicate proc.
+ERROR [portable_pty::win::psuedocon] CreateProcessW `"\"C:\\Program Files\\nodejs\\npm\" run inngest:dev\0"` in cwd `Some("C:\\Applications\\Personal-projects\\nodebase\0")` failed: %1 is not a valid Win32 application. (os error 193)
+ERROR [portable_pty::win::psuedocon] CreateProcessW `"\"C:\\Program Files\\nodejs\\npm\" run dev\0"` in cwd `Some("C:\\Applications\\Personal-projects\\nodebase\0")` failed: %1 is not a valid Win32 application. (os error 193)
+ERROR [portable_pty::win::psuedocon] CreateProcessW `"\"C:\\Program Files\\nodejs\\npm\" run inngest:dev\0"` in cwd `Some("C:\\Applications\\Personal-projects\\nodebase\0")` failed: %1 is not a valid Win32 application. (os error 193)
+ERROR [portable_pty::win::psuedocon] CreateProcessW `"\"C:\\Program Files\\nodejs\\npm\" run inngest:dev\0"` in cwd `Some("C:\\Applications\\Personal-projects\\nodebase\0")` failed: %1 is not a valid Win32 application. (os error 193)
+ERROR [portable_pty::win::psuedocon] CreateProcessW `"\"C:\\Program Files\\nodejs\\npm\" run dev\0"` in cwd `Some("C:\\Applications\\Personal-projects\\nodebase\0")` failed: %1 is not a valid Win32 application. (os error 193)
+ERROR [lib::error] Error: channel closed
+ERROR [lib::error] Error: channel closed
